@@ -7,6 +7,7 @@
 Key output
 
 - Full differentiation tree - PPT
+- Neuronal lineage
 - All cell meta information
 - subtypes of neurons
 - regulator, TF groups
